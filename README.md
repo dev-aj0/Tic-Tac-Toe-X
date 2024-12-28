@@ -1,3 +1,5 @@
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/696a12d7-f8b6-4c5c-91a2-319f8189a08e" />
+
 # Tic Tac Toe X
 
 Tic Tac Toe X is a minimalist and interactive Tic Tac Toe game built with React, Vite, and Tailwind CSS. The game allows users to play against each other or an AI opponent, featuring multiple themes and a responsive design.
@@ -56,3 +58,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Enjoy playing Tic Tac Toe X! If you have any questions or feedback, feel free to reach out.
+
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/4ed7feea-f69c-474d-80d9-54bcec43c056" />
