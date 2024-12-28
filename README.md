@@ -4,7 +4,7 @@
 
 Tic Tac Toe X is a minimalist and interactive Tic Tac Toe game built with React, Vite, and Tailwind CSS. The game allows users to play against each other or an AI opponent, featuring multiple themes and a responsive design.
 
-Try it out here: [Your Deployment Link]
+Try it out here: https://ttt-x.netlify.app/
 
 ## Table of Contents
 
